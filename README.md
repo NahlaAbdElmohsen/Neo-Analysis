@@ -21,4 +21,5 @@ The first model -**Decision Tree**- gives accuracy of 94% and the second model -
 after applying SMOTE technique on the dataset to handle imbalanced data
 # References
 [NEO Hazard prediction score 96%](https://www.kaggle.com/code/mohamedelsayedaffan/neo-hazard-prediction-score-96)
+
 Material from MLSC Data Science and Machine learning Bootcamp

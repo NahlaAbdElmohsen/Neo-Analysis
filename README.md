@@ -10,10 +10,15 @@ hazardous or not, as the ability to accurately identify dangerous objects could 
 The dataset contains 338,199 records,observed by NASA from 1910 to 2024.
 ### What steps were taken in this project?
 **1.Explore the data**
+
 **2.Cleaning the data:** handing missing value,outliers,..etc
+
 **3.EDA:** making approprite visualization to explore important features and trends
+
 **4.Data preprocessing:** handling imbalanced data to make sure that model will get reliable results
+
 **5.Model training and Evaluation:** trian the two model and evaluate thier accuracy to find the appropriate one
+
 # Analysis goals
 To precisely predict if the object is dangerous to Earth or not
 # Results and insights
